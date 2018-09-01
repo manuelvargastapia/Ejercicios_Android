@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu   xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuArchivo"
+        android:title="@string/menuArchivo"
+        android:icon="@drawable/ic_attach_file_black_24dp"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menuEditar"
+        android:title="@string/menuEditar"
+        android:icon="@drawable/ic_edit_black_24dp"
+        app:showAsAction="always"/>
+    <item android:id="@+id/menuAyuda"
+        android:title="@string/menuAyuda"
+        android:icon="@drawable/ic_help_black_24dp"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menuSalir"
+        android:title="@string/menuSalir"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        app:showAsAction="always"/>
+
+</menu>
