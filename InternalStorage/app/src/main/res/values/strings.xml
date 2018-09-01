@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InternalStorage</string>
+    <string name="Input">Escriba aquí...</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Cargar">Cargar</string>
+</resources>
