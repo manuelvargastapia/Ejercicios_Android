@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment2</string>
+    <string name="Fragment">Hola, soy FragmentA</string>
+    <string name="Main">Hola, soy MainActivity</string>
+</resources>
