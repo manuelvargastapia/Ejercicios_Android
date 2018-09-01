@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences2</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Cargar">Cargar</string>
+    <string name="Guardar">Guardar</string>
+</resources>
